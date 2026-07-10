@@ -1,0 +1,28 @@
+Python
+Java
+C
+C++
+HTML
+CSS
+JavaScript
+Flask
+Django
+SQL
+MySQL
+MongoDB
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+Git
+GitHub
+AWS
+Docker
+Linux
+Data Structures
+Algorithms
+Communication
+Problem Solving
