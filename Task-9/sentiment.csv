@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,Positive
+This movie is amazing,Positive
+The service was excellent,Positive
+I am very happy today,Positive
+Fantastic experience with the app,Positive
+The food tastes delicious,Positive
+I really enjoyed the event,Positive
+The weather is beautiful today,Positive
+The customer support was very helpful,Positive
+Everything worked perfectly,Positive
+I hate this product,Negative
+This is the worst experience ever,Negative
+The service is terrible,Negative
+I am very disappointed,Negative
+The app keeps crashing,Negative
+The food was awful,Negative
+I regret buying this item,Negative
+This movie is boring,Negative
+The delivery was very late,Negative
+Nothing works properly,Negative
+The meeting was okay,Neutral
+I have no opinion about this,Neutral
+It is an average product,Neutral
+The weather is normal today,Neutral
+The event was neither good nor bad,Neutral
+The update was released today,Neutral
+It works as expected,Neutral
+I finished my work,Neutral
+The phone is available in stores,Neutral
+Today is Monday,Neutral
